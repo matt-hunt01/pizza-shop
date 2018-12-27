@@ -27,7 +27,8 @@ class Cart extends Component {
   onClearCart(e) {
     e.preventDefault();
     this.setState({
-      cart: []
+      cart: [],
+      totalPrice: 0
     });
   }
 
