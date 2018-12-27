@@ -1,4 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Steps to Run the Project:
 
 1. Extract the folder and move into the folder from the teminal.
